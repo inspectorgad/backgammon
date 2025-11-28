@@ -1,0 +1,27 @@
+{
+  "name": "Backgammon with AI Tutor",
+  "short_name": "Backgammon",
+  "description": "Play backgammon with an AI tutor, animated pieces, and voice commentary",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#8B4513",
+  "theme_color": "#8B4513",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["games", "entertainment"],
+  "screenshots": [],
+  "prefer_related_applications": false
+}
